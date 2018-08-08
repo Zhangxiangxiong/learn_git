@@ -5,3 +5,6 @@ echo " 请是用 --no-ff 实现分支合并";
 ?>
 //edit on branch f-A
 //edit on branch b
+f-A 1
+f-A 2
+f-A 3
